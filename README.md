@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 🔭 I’m currently turning my Find My Meal project to a mobile application<br>🤝 I’m looking for Junior Front-End Developer or Junior Mobile Application Developer job.<br>🌱 I’m currently learning Android development<br>
 
 
