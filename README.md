@@ -1,5 +1,21 @@
 # About Me:
-🔭 I’m currently turning my Find My Meal project to a mobile application<br>🤝 I’m looking for Junior Front-End Developer or Junior Mobile Application Developer job.<br>🌱 I’m currently learning Android development<br>
+
+🚀 Passionate Android Developer with a strong focus on building maintainable, user-centric applications. I specialize in crafting modern UIs using Jetpack Compose and implementing robust architectures like MVVM to ensure scalable and efficient solutions.
+
+🌟 Current Role:
+
+Android Developer at Getir (Sep 2024 – Present), contributing to impactful projects in a fast-paced, dynamic environment.
+
+💻 Key Highlights
+
+Expert in Jetpack Compose: Crafting modern, responsive, and maintainable UIs with enhanced animations for a seamless user experience.
+Secure Authentication Management: Implemented social logins (Google, Facebook) and managed refresh tokens to ensure secure and smooth user authentication.
+REST API Integration: Streamlined backend services integration for efficient data exchange between applications and servers.
+MVVM Architecture: Ensured a clean, scalable, and testable codebase by leveraging the MVVM design pattern.
+Performance Optimization: Refactored layouts, resolved bugs, and enhanced app performance through efficient activity and UI management.
+Android File Transfer: Developed file-sharing features using TCP/UDP protocols, enabling efficient communication across devices.
+CI/CD Expertise: Automated builds and deployments to maintain continuous delivery and high-quality releases in Android projects.
+🎯 I’m passionate about pushing the boundaries of Android development and delivering exceptional mobile experiences.
 
 
 ## 🌐 Socials:
